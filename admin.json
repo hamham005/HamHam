@@ -1,4 +1,4 @@
-{"admins": [
+ [
      {"id":"A001","email":"skestian0@telegraph.co.uk","password":"G7dK3bQw"},
      {"id":"A002","email":"jellsworthe1@time.com","password":"pD9mF1rT"},
      {"id":"A003","email":"rbrenneke2@mapy.cz","password":"X8vL2kZn"},
@@ -10,4 +10,3 @@
      {"id":"A009","email":"earnoll8@dedecms.com","password":"K7fT2gLp"},
      {"id":"A010","email":"rlevecque9@google.de","password":"V9qH1nWz"}
 ]
-}
