@@ -1,5 +1,4 @@
-{
-    "doctors": [
+[
     { "id": "D001", "email": "vrilton0@discuz.net", "password": "A7b2K9pQ" },
     { "id": "D002", "email": "ebeardsworth1@mac.com", "password": "f8R2xD1q" },
     { "id": "D003", "email": "emcquillan2@about.me", "password": "B4g7vH3k" },
@@ -16,4 +15,4 @@
     { "id": "D014", "email": "idumberrilld@toplist.cz", "password": "C1v6R9nT" },
     { "id": "D015", "email": "sgivese@wsj.com", "password": "J7m2K4pF" }
 ]
-}
+
