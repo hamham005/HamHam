@@ -1,5 +1,4 @@
-{
-"patients": [
+[
     {"id":"P001","NHS":"6538586104","password":"G7dK3bQw"},
     {"id":"P002","NHS":"3748194617","password":"pD9mF1rT"},
     {"id":"P003","NHS":"1055801944","password":"X8vL2kZn"},
@@ -101,4 +100,3 @@
     {"id":"P099","NHS":"7096153047","password":"Q5pF9vXn"},
     {"id":"P100","NHS":"0916757552","password":"mS6bJ3dT"}
     ]
-}
